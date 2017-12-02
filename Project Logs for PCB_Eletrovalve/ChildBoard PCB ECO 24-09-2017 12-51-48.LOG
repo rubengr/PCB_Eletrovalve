@@ -1,0 +1,97 @@
+Added Component: Designator=C?(CAPC1608N)
+Added Component: Designator=J2(2P_PCB_ScrewTerm_90S_3.81MM)
+Added Component: Designator=P?(DF9-25S-1V (MALE))
+Added Component: Designator=P?(DF9-25S-1V (MALE))
+Added Component: Designator=R?(RESC1608N)
+Added Component: Designator=U?(HSOP-8-DDA)
+Added Pin To Net: NetName=+3.3V Pin=P?-7
+Added Pin To Net: NetName=+3.3V Pin=P?-8
+Added Pin To Net: NetName=+3.3V Pin=P?-9
+Added Pin To Net: NetName=+3.3V Pin=P?-10
+Added Pin To Net: NetName=+3.3V Pin=P?-11
+Added Pin To Net: NetName=+3.3V Pin=P?-12
+Added Pin To Net: NetName=+3.3V Pin=P?-13
+Added Pin To Net: NetName=+3.3V Pin=R?-1
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=+9V Pin=C?-1
+Added Pin To Net: NetName=+9V Pin=C?-2
+Added Pin To Net: NetName=+9V Pin=P?-1
+Added Pin To Net: NetName=+9V Pin=P?-2
+Added Pin To Net: NetName=+9V Pin=P?-3
+Added Pin To Net: NetName=+9V Pin=P?-4
+Added Pin To Net: NetName=+9V Pin=P?-5
+Added Pin To Net: NetName=+9V Pin=P?-6
+Added Pin To Net: NetName=+9V Pin=U?-8
+Added Net: Name=+9V
+Added Pin To Net: NetName=ADC_IN5 Pin=P?-24
+Added Net: Name=ADC_IN5
+Added Pin To Net: NetName=ADC_IN7 Pin=P?-25
+Added Net: Name=ADC_IN7
+Added Pin To Net: NetName=ADC_IN8 Pin=P?-19
+Added Net: Name=ADC_IN8
+Added Pin To Net: NetName=ADC_IN9 Pin=P?-20
+Added Net: Name=ADC_IN9
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=GND Pin=P?-4
+Added Pin To Net: NetName=GND Pin=P?-5
+Added Pin To Net: NetName=GND Pin=P?-6
+Added Pin To Net: NetName=GND Pin=P?-7
+Added Pin To Net: NetName=GND Pin=P?-8
+Added Pin To Net: NetName=GND Pin=P?-9
+Added Pin To Net: NetName=GND Pin=P?-10
+Added Pin To Net: NetName=GND Pin=P?-11
+Added Pin To Net: NetName=GND Pin=P?-12
+Added Pin To Net: NetName=GND Pin=P?-14
+Added Pin To Net: NetName=GND Pin=P?-15
+Added Pin To Net: NetName=GND Pin=P?-16
+Added Pin To Net: NetName=GND Pin=P?-17
+Added Pin To Net: NetName=GND Pin=P?-18
+Added Pin To Net: NetName=GND Pin=P?-19
+Added Pin To Net: NetName=GND Pin=P?-20
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIO1 Pin=P?-21
+Added Pin To Net: NetName=GPIO1 Pin=U?-2
+Added Net: Name=GPIO1
+Added Pin To Net: NetName=GPIO2 Pin=P?-22
+Added Pin To Net: NetName=GPIO2 Pin=U?-3
+Added Net: Name=GPIO2
+Added Pin To Net: NetName=GPIO3 Pin=P?-23
+Added Pin To Net: NetName=GPIO3 Pin=R?-2
+Added Pin To Net: NetName=GPIO3 Pin=U?-4
+Added Net: Name=GPIO3
+Added Pin To Net: NetName=I2C1_SCL Pin=P?-1
+Added Net: Name=I2C1_SCL
+Added Pin To Net: NetName=I2C1_SDA Pin=P?-2
+Added Net: Name=I2C1_SDA
+Added Pin To Net: NetName=OUT1 Pin=J2-1
+Added Pin To Net: NetName=OUT1 Pin=U?-7
+Added Net: Name=OUT1
+Added Pin To Net: NetName=OUT2 Pin=J2-2
+Added Pin To Net: NetName=OUT2 Pin=U?-5
+Added Net: Name=OUT2
+Added Pin To Net: NetName=SPI1_MISO Pin=P?-24
+Added Net: Name=SPI1_MISO
+Added Pin To Net: NetName=SPI1_MOSI Pin=P?-25
+Added Net: Name=SPI1_MOSI
+Added Pin To Net: NetName=SPI1_SCK Pin=P?-23
+Added Net: Name=SPI1_SCK
+Added Pin To Net: NetName=SPI2_MISO/I2C2_SDA Pin=P?-15
+Added Net: Name=SPI2_MISO/I2C2_SDA
+Added Pin To Net: NetName=SPI2_MOSI Pin=P?-16
+Added Net: Name=SPI2_MOSI
+Added Pin To Net: NetName=SPI2_SCK/I2C2_SCL Pin=P?-14
+Added Net: Name=SPI2_SCK/I2C2_SCL
+Added Pin To Net: NetName=UART1_RX Pin=P?-18
+Added Net: Name=UART1_RX
+Added Pin To Net: NetName=UART1_TX Pin=P?-17
+Added Net: Name=UART1_TX
+Added Pin To Net: NetName=UART2_RX Pin=P?-22
+Added Net: Name=UART2_RX
+Added Pin To Net: NetName=UART2_TX/SWCLK Pin=P?-21
+Added Net: Name=UART2_TX/SWCLK
+Added Class: Name=ChildBoard
+Added Room: Name=ChildBoard

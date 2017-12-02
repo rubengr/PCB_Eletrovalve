@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Pin From Net: NetName=+9V Pin=U?-8
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Component: Designator=C1(CAP_ELEC_Size_H13)
+Added Component: Designator=Q1(SOT23)
+Added Component: Designator=Q2(SOT23)
+Added Component: Designator=R1(RESC1608N)
+Added Component: Designator=R3(RESC1608N)
+Added Component: Designator=R4(RESC1608N)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=+9V Pin=Q1-3
+Added Pin To Net: NetName=ADC_IN5 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=+9V Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=ADC_IN5 Pin=R4-2
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C2-2
+Added Pin To Net: NetName=NetC1_1 Pin=Q1-2
+Added Pin To Net: NetName=NetC1_1 Pin=U1-8
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q2-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U1-6
+Added Net: Name=NetR3_1
+Added Member To Class: ClassName=ChildBoard Member=Component C1 47µ
+Added Member To Class: ClassName=ChildBoard Member=Component P1 Header 25 Male
+Added Member To Class: ClassName=ChildBoard Member=Component Q1 SOT23
+Added Member To Class: ClassName=ChildBoard Member=Component Q2 SOT23
+Added Member To Class: ClassName=ChildBoard Member=Component R1 Thick Film
+Added Member To Class: ClassName=ChildBoard Member=Component R3 Thick Film
+Added Member To Class: ClassName=ChildBoard Member=Component R4 Thick Film
