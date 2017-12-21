@@ -1,12 +1,21 @@
 Output: Gerber Files
 Type  : Gerber
 From  : PCB Document [ChildBoard.PcbDoc]
+   Generated File[ChildBoard.GTL]
+   Generated File[ChildBoard.GBL]
+   Generated File[ChildBoard.GTO]
+   Generated File[ChildBoard.GTP]
+   Generated File[ChildBoard.GTS]
+   Generated File[ChildBoard.GBS]
+   Generated File[ChildBoard.GBP]
+   Generated File[ChildBoard.GBO]
+   Generated File[ChildBoard.GKO]
    Generated File[ChildBoard.RUL]
    Generated File[ChildBoard.EXTREP]
    Generated File[ChildBoard.REP]
 
 
-Files Generated   : 3
+Files Generated   : 12
 Documents Printed : 0
 
-Finished Output Generation At 00:30:57 On 02/12/2017
+Finished Output Generation At 14:40:28 On 16/12/2017

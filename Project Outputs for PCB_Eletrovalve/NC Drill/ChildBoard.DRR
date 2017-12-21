@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: ChildBoard.PcbDoc   02/12/2017  00:30:55
+NCDrill File Report For: ChildBoard.PcbDoc   16/12/2017  14:40:24
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,10 +8,10 @@ ASCII RoundHoles File : ChildBoard.TXT
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
 T1        11.81mil (0.29997mm)     Round          6                0.26 Inch (6.50 mm)
-T2        15.75mil (0.40005mm)     Round          13               1.56 Inch (39.50 mm)
+T2        15.75mil (0.40005mm)     Round          18               2.60 Inch (66.06 mm)
 T3        47.24mil (1.1999mm)      Round          4                3.52 Inch (89.45 mm)
 T4        52mil (1.3208mm)         Round          2                0.15 Inch (3.81 mm)
 ---------------------------------------------------------------------------
-Totals                                            25               5.48 Inch (139.26 mm)
+Totals                                            30               6.53 Inch (165.82 mm)
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01
